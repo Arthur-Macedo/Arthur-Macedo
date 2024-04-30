@@ -10,8 +10,12 @@
   👋 Oi, me chamo Arthur Macêdo! Um estudante apaixonado em tecnologia.
 
   - 📱  Desenvolvedor Web. 
-
 </p>
+
+<div align="">
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Arthur-Macedo&show_icons=true&theme=synthwave"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Macedo&layout=compact&&langs_theme=synthwave"/>
+</div>
 
  &nbsp;
  &nbsp;
