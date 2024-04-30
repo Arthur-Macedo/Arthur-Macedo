@@ -6,10 +6,13 @@
 
 <!-- Apresentação -->
 
-<p>👋 Oi, me chamo Arthur Macêdo! Um estudante apaixonado em tecnologia. </p>
-<p> 📱  Desenvolvedor Web. </p>
-   
- 
+<p>
+  👋 Oi, me chamo Arthur Macêdo! Um estudante apaixonado em tecnologia.
+
+  - 📱  Desenvolvedor Web. 
+
+</p>
+
  &nbsp;
  &nbsp;
 
@@ -44,6 +47,6 @@
 <div> 
 <a href="https://www.instagram.com/arthur_macedofl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.ciceroarthurmacedo1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href ="mailto:ciceroarthurmacedo1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=	0000FF&height=120&section=footer"/>
